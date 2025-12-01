@@ -13,8 +13,8 @@ from collections import defaultdict
 
 logging.basicConfig(filename='bot_log.txt', level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
-BOT_TOKEN = '8269607268:AAHSO905LzZfH7xJPvLhabu3ZIsQZyWKSFM' 
-ADMIN_ID = 6479788665 
+BOT_TOKEN = '8311193642:AAHhDg4RVlj-9I0ikDBoqv3jNOgkj14_5oA' 
+ADMIN_ID = 5348572574
 
 bot = telebot.TeleBot(BOT_TOKEN)
 
