@@ -42,13 +42,13 @@ def keep_alive():
 
 # --- Configuration ---
 #توكن
-TOKEN = ''
+TOKEN = '8311193642:AAHhDg4RVlj-9I0ikDBoqv3jNOgkj14_5oA'
 #ايدي المالك
-OWNER_ID = 
+OWNER_ID = 5348572574
 #ايدي الادمن
-ADMIN_ID = 
+ADMIN_ID = 6479788665
 #يوزرك
-YOUR_USERNAME = ''
+YOUR_USERNAME = 'le_eh'
 #يوزر القناه 
 UPDATE_CHANNEL = ''
 
